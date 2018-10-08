@@ -2,8 +2,8 @@
 
 - Unpack software archive into some folder, e.g. C:\fm2txt
 
-- Go to https://www.anaconda.com/download/ and choose Python 3.6 version, 64-Bit Graphical Installer
-	or download directly: https://repo.continuum.io/archive/Anaconda3-5.0.1-Windows-x86_64.exe
+- Go to [Anaconda](https://www.anaconda.com/download/) and choose Python 3.7 version, 64-Bit Graphical Installer
+	or download directly: [From Here](https://repo.anaconda.com/archive/Anaconda3-5.3.0-Windows-x86_64.exe).
 
 - Run anaconda prompt, change dir to C:\fm2txt, then run: `pip install -r requirements.txt`
 
