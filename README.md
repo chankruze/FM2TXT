@@ -7,7 +7,7 @@
 
 - Run anaconda prompt, change dir to C:\fm2txt, then run: `pip install -r requirements.txt`
 
-- Last step is to copy 2 files from x64 folder of [osmocom rtl-sdr drivers](https://osmocom.org/attachments/download/2242/RelWithDebInfo.zip).
+- Last step is to copy 2 files from x64 folder of [osmocom rtl-sdr drivers](https://osmocom.org/attachments/download/2242/RelWithDebInfo.zip)/[Mirror](http://s000.tinyupload.com/?file_id=21142674869394817308)
 
 - Copy these [rtl-sdr-release/x64/]: `rtlsdr.dll` & `libusb-1.0.dll` into `C:\Windows` folder.
 
